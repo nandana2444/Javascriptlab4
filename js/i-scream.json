@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 190,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Mint chocolate chip",
+        "calories": 220,
+        "type": "ice-cream",
+        "ingredients": ["Fresh mint leaves, Chocolate chips or chopped chocolate, Milk or cream, Sugar"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Buttered pecan",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": ["Pecans (chopped or halves), Butter, chocolate chips, Brownsugar, Vanilla extract"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
+    }]
+}
